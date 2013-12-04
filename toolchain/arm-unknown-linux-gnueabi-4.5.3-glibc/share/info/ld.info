@@ -1,5 +1,5 @@
 This is ld.info, produced by makeinfo version 4.13 from
-/usr/local/google/home/lcwu/eureka-toolchain/toolchain/binutils/ld/ld.texinfo.
+/media/hdd1/lcwu/proj/eureka-toolchain/toolchain/binutils/ld/ld.texinfo.
 
 INFO-DIR-SECTION Software development
 START-INFO-DIR-ENTRY
@@ -7791,87 +7791,87 @@ LD Index
 
 
 Tag Table:
-Node: Top881
-Node: Overview1664
-Node: Invocation2778
-Node: Options3186
-Node: Environment93402
-Node: Scripts95162
-Node: Basic Script Concepts96896
-Node: Script Format99603
-Node: Simple Example100466
-Node: Simple Commands103562
-Node: Entry Point104068
-Node: File Commands105001
-Node: Format Commands109002
-Node: REGION_ALIAS110958
-Node: Miscellaneous Commands115790
-Node: Assignments119166
-Node: Simple Assignments119657
-Node: PROVIDE121393
-Node: PROVIDE_HIDDEN122598
-Node: Source Code Reference122842
-Node: SECTIONS126422
-Node: Output Section Description128313
-Node: Output Section Name129400
-Node: Output Section Address130276
-Node: Input Section132511
-Node: Input Section Basics133312
-Node: Input Section Wildcards136530
-Node: Input Section Common141263
-Node: Input Section Keep142745
-Node: Input Section Example143235
-Node: Output Section Data144203
-Node: Output Section Keywords146980
-Node: Output Section Discarding150549
-Node: Output Section Attributes151730
-Node: Output Section Type152831
-Node: Output Section LMA153902
-Node: Forced Output Alignment156973
-Node: Forced Input Alignment157241
-Node: Output Section Constraint157630
-Node: Output Section Region158058
-Node: Output Section Phdr158491
-Node: Output Section Fill159155
-Node: Overlay Description160297
-Node: MEMORY164599
-Node: PHDRS168933
-Node: VERSION174187
-Node: Expressions182280
-Node: Constants183209
-Node: Symbolic Constants184084
-Node: Symbols184635
-Node: Orphan Sections185382
-Node: Location Counter186546
-Node: Operators190982
-Node: Evaluation191904
-Node: Expression Section193268
-Node: Builtin Functions196869
-Node: Implicit Linker Scripts204825
-Node: Machine Dependent205600
-Node: H8/300206616
-Node: i960208241
-Node: M68HC11/68HC12210445
-Node: ARM211899
-Node: HPPA ELF32219411
-Node: M68K221034
-Node: MMIX221943
-Node: MSP430223108
-Node: PowerPC ELF32224157
-Node: PowerPC64 ELF64226993
-Node: SPU ELF231409
-Node: TI COFF234041
-Node: WIN32234567
-Node: Xtensa254692
-Node: BFD257657
-Node: BFD outline259112
-Node: BFD information loss260398
-Node: Canonical format262915
-Node: Reporting Bugs267272
-Node: Bug Criteria267966
-Node: Bug Reporting268665
-Node: MRI275704
-Node: GNU Free Documentation License280347
-Node: LD Index305503
+Node: Top875
+Node: Overview1658
+Node: Invocation2772
+Node: Options3180
+Node: Environment93396
+Node: Scripts95156
+Node: Basic Script Concepts96890
+Node: Script Format99597
+Node: Simple Example100460
+Node: Simple Commands103556
+Node: Entry Point104062
+Node: File Commands104995
+Node: Format Commands108996
+Node: REGION_ALIAS110952
+Node: Miscellaneous Commands115784
+Node: Assignments119160
+Node: Simple Assignments119651
+Node: PROVIDE121387
+Node: PROVIDE_HIDDEN122592
+Node: Source Code Reference122836
+Node: SECTIONS126416
+Node: Output Section Description128307
+Node: Output Section Name129394
+Node: Output Section Address130270
+Node: Input Section132505
+Node: Input Section Basics133306
+Node: Input Section Wildcards136524
+Node: Input Section Common141257
+Node: Input Section Keep142739
+Node: Input Section Example143229
+Node: Output Section Data144197
+Node: Output Section Keywords146974
+Node: Output Section Discarding150543
+Node: Output Section Attributes151724
+Node: Output Section Type152825
+Node: Output Section LMA153896
+Node: Forced Output Alignment156967
+Node: Forced Input Alignment157235
+Node: Output Section Constraint157624
+Node: Output Section Region158052
+Node: Output Section Phdr158485
+Node: Output Section Fill159149
+Node: Overlay Description160291
+Node: MEMORY164593
+Node: PHDRS168927
+Node: VERSION174181
+Node: Expressions182274
+Node: Constants183203
+Node: Symbolic Constants184078
+Node: Symbols184629
+Node: Orphan Sections185376
+Node: Location Counter186540
+Node: Operators190976
+Node: Evaluation191898
+Node: Expression Section193262
+Node: Builtin Functions196863
+Node: Implicit Linker Scripts204819
+Node: Machine Dependent205594
+Node: H8/300206610
+Node: i960208235
+Node: M68HC11/68HC12210439
+Node: ARM211893
+Node: HPPA ELF32219405
+Node: M68K221028
+Node: MMIX221937
+Node: MSP430223102
+Node: PowerPC ELF32224151
+Node: PowerPC64 ELF64226987
+Node: SPU ELF231403
+Node: TI COFF234035
+Node: WIN32234561
+Node: Xtensa254686
+Node: BFD257651
+Node: BFD outline259106
+Node: BFD information loss260392
+Node: Canonical format262909
+Node: Reporting Bugs267266
+Node: Bug Criteria267960
+Node: Bug Reporting268659
+Node: MRI275698
+Node: GNU Free Documentation License280341
+Node: LD Index305497
 
 End Tag Table

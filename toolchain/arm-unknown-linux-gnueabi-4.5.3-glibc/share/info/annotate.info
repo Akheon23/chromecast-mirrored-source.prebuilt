@@ -1,5 +1,5 @@
 This is annotate.info, produced by makeinfo version 4.13 from
-/usr/local/google/home/lcwu/eureka-toolchain/toolchain/gdb/gdb/doc/annotate.texinfo.
+/media/hdd1/lcwu/proj/eureka-toolchain/toolchain/gdb/gdb/doc/annotate.texinfo.
 
 INFO-DIR-SECTION Software development
 START-INFO-DIR-ENTRY
@@ -1172,21 +1172,21 @@ permit their use in free software.
 
 
 Tag Table:
-Node: Top1348
-Node: Annotations Overview2518
-Node: Limitations4317
-Node: Migrating to GDB/MI6902
-Node: Server Prefix7285
-Node: Value Annotations7931
-Node: Frame Annotations11101
-Node: Displays15000
-Node: Prompting16031
-Node: Errors17534
-Node: Breakpoint Info18424
-Node: Invalidation19649
-Node: Annotations for Running20128
-Node: Source Annotations21641
-Node: Multi-threaded Apps22587
-Node: GNU Free Documentation License23196
+Node: Top1342
+Node: Annotations Overview2512
+Node: Limitations4311
+Node: Migrating to GDB/MI6896
+Node: Server Prefix7279
+Node: Value Annotations7925
+Node: Frame Annotations11095
+Node: Displays14994
+Node: Prompting16025
+Node: Errors17528
+Node: Breakpoint Info18418
+Node: Invalidation19643
+Node: Annotations for Running20122
+Node: Source Annotations21635
+Node: Multi-threaded Apps22581
+Node: GNU Free Documentation License23190
 
 End Tag Table

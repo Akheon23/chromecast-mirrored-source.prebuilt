@@ -2,7 +2,7 @@
 
     It has been auto-edited by fixincludes from:
 
-	"/usr/local/google/home/lcwu/eureka-toolchain/toolchain/.install-x86_64/target-arm-unknown-linux-gnueabi/usr/include/linux/a.out.h"
+	"/media/hdd1/lcwu/proj/eureka-toolchain/toolchain/.install-x86_64/target-arm-unknown-linux-gnueabi/usr/include/linux/a.out.h"
 
     This had to be done to correct non-standard usages in the
     original, manufacturer supplied header file.  */
